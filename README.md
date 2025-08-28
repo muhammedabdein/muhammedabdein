@@ -11,3 +11,4 @@ This template repository contains the source code for a Python Chess bot, togeth
 
 3. Rename the folder `.github/_workflows` to `.github/workflows` in order to enable the GitHub Actions workflow that does all the magic.
 
+
